@@ -2,7 +2,7 @@ import React from "react";
 import Navbar from "../components/common/Navbar";
 import HeroSection from "../components/HeroSection";
 import CategoriesSection from "../components/CategoriesSection";
-import Footer from "../components/common/Footer";
+import Footer from "../components/common/footer";
 import WhyClick2Print from "../components/WhyClick2Print";
 import Questions from "../components/Questions";
 import Trending from "../components/Trending";
