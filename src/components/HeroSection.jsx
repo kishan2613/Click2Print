@@ -15,7 +15,7 @@ const HeroSection = () => {
 
       {/* Content */}
       <div className="relative z-30">
-        <h1 className="text-5xl font-bold text-slate-800 leading-tight mb-4">Your Prints, Right at My Door</h1>
+        <h1 className="text-5xl font-bold text-slate-800 leading-tight mb-4">Your Prints, Right at Your Door</h1>
         <p className="text-lg mb-6 text-slate-800 ">Print anything from banners to wedding cards with Click2Print. We bring quality prints to your doorstep!</p>
 
         {/* CTA Button */}
